@@ -1,0 +1,15 @@
+{
+    "name": "ChatBotApplication",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "0206eed0-786c-11e8-a952-1766228fcbe4",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ]
+}
