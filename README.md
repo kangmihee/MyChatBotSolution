@@ -1,5 +1,4 @@
 # MyChatBotSolution
-<br><br>
 <img src="https://user-images.githubusercontent.com/52686126/69910821-01037180-1455-11ea-81cc-5470da1e78b4.png" width="40%">&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/52686126/69910822-019c0800-1455-11ea-9a63-b6132b46140a.png" width="40%">
 <br>
